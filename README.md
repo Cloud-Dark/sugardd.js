@@ -42,7 +42,10 @@ Visualize your entire project structure in a clean, colorful, and easy-to-unders
 **Example:**
 ```bash
 sugardd
-``````
+```
+This command will output a tree structure of your current directory, highlighting files and folders with intuitive icons:
+
+```bash
 🍬 Analyzing project structure...
 📁 my-awesome-project
     ├── 📁 src
@@ -62,7 +65,9 @@ Go beyond the structure. `sugardd.js` can directly display the content of your f
 ```bash
 # This is the default behavior!
 sugardd
-``````
+```
+
+```bash
 ...
 ├── 📄 package.json
 │   ┌──────────────────────────────────────────────────┐
@@ -116,7 +121,9 @@ Get a high-level quantitative summary of your project with the `--stats` flag.
 **Example:**
 ```bash
 sugardd --stats --no-content
-``````
+```
+
+```bash
 ...
 📊 Project Statistics
 ----------------------
@@ -168,6 +175,7 @@ sugardd --server
 # Start on a custom port
 sugardd -s -p 8080
 ```
+
 **API Endpoint:**
 -   `GET /scan`: Returns the full project structure and statistics as JSON.
     -   You can pass any CLI option as a query parameter!
