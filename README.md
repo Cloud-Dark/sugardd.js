@@ -43,6 +43,7 @@ Visualize your entire project structure in a clean, colorful, and easy-to-unders
 ```bash
 sugardd
 ```
+
 This command will output a tree structure of your current directory, highlighting files and folders with intuitive icons:
 
 ```bash
@@ -63,9 +64,10 @@ Go beyond the structure. `sugardd.js` can directly display the content of your f
 
 **Example:**
 ```bash
-# This is the default behavior!
 sugardd
 ```
+
+This is the default behavior!
 
 ```bash
 ...
