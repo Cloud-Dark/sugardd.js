@@ -1,0 +1,43 @@
+{
+  "name": "sugardd.js",
+  "version": "1.0.0",
+  "description": "A sweet and structured project explorer that visualizes your codebase with beautiful tree diagrams and deep analysis. Perfect for any project.",
+  "main": "index.js",
+  "bin": {
+    "sugardd": "./bin/main.js"
+  },
+  "scripts": {
+    "start": "node bin/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sugardd",
+    "project-explorer",
+    "file-tree",
+    "developer-tools",
+    "anyany.js",
+    "cli",
+    "code-visualization",
+    "documentation-generator"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "mime-types": "^2.1.35"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloud-dark/sugardd.js.git"
+  },
+  "homepage": "https://github.com/cloud-dark/sugardd.js#readme",
+  "bugs": {
+    "url": "https://github.com/cloud-dark/sugardd.js/issues"
+  }
+}
