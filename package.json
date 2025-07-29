@@ -1,6 +1,6 @@
 {
   "name": "sugardd.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A sweet and structured project explorer that visualizes your codebase with beautiful tree diagrams and deep analysis. Perfect for any project.",
   "main": "index.js",
   "bin": {
