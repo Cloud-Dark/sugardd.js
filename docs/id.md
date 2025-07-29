@@ -121,20 +121,34 @@ return
 
 ```bash
 ...
+🍭 sugardd.js - Your Project's Sweetest Explorer
+Visualize your codebase with beautiful, structured diagrams.
+
+🍬 Analyzing project structure...
+
 📊 Statistik Proyek
 ----------------------
-📁 Direktori: 15
-📄 Total File: 88
-💾 Ukuran Total: 2.35 MB
-🐘 File Terbesar: banner.png (1.2 MB)
-📝 File Terpanjang: main.js (1502 baris)
+📁 Direktori: 4
+📄 Total File: 6
+💾 Ukuran Total: 65.17 KB
+🐘 File Terbesar: package-lock.json (33.48 KB)
 
 🎨 Tipe File:
-  - .js: 45
-  - .json: 12
-  - .md: 8
-  - .css: 7
+  - .js: 2
+  - .md: 2
+  - .json: 2
 ----------------------
+
+📁 sugardd.js
+    ├── 📁 bin
+    │   └── 📄 main.js
+    ├── 📁 docs
+    │   └── 📄 id.md
+    ├── 📁 src
+    │   └── 📄 sugardd.js
+    ├── 📄 package-lock.json
+    ├── 📄 package.json
+    └── 📄 README.md
 ```
 
 ### 5. Berbagai Format Ekspor

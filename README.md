@@ -6,32 +6,40 @@
   <img src="https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg?style=for-the-badge" alt="Node Version"/>
 </p>
 
-**Sebuah penjelajah proyek yang manis dan terstruktur untuk memvisualisasikan codebase Anda dengan diagram pohon yang indah dan analisis mendalam.**
+**A sweet and structured project explorer to visualize your codebase with beautiful tree diagrams and in-depth analysis.**
 
----
+-----
 
-## 🚀 Instalasi
+## 🚀 Installation
 
-Untuk menggunakan `sugardd.js` secara global dari terminal Anda, pastikan Anda telah menginstal Node.js (v14.0.0 atau lebih baru).
+To use `sugardd.js` globally from your terminal, make sure you have Node.js (v14.0.0 or later) installed.
 
-Kemudian, jalankan perintah berikut:
+Then, run the following command:
 
 ```bash
 npm install -g sugardd.js
 ```
 
-Setelah instalasi selesai, Anda dapat menjalankan perintah `sugardd` dari direktori mana pun.
+Once the installation is complete, you can run the `sugardd` command from any directory.
 
-## 📖 Dokumentasi Lengkap
+## 📖 Full Documentation
 
-Untuk panduan lengkap mengenai fitur, daftar perintah, dan contoh penggunaan, silakan lihat dokumentasi lengkap kami.
+For a complete guide on features, command list, and usage examples, please refer to our full documentation.
 
 ### ➡️ **[Lihat Dokumentasi Lengkap (Bahasa Indonesia)](./docs/id.md)**
 
-## 🤝 Berkontribusi
+### ➡️ **[View Full Documentation (English)](./docs/en.md)**
 
-Kontribusi, isu, dan permintaan fitur sangat kami harapkan! Silakan kunjungi [halaman isu](https://github.com/cloud-dark/sugardd.js/issues).
+## 🤝 Contributing
+We welcome contributions to `sugardd.js`! Whether it's fixing bugs, improving documentation, or adding new features, your help is appreciated.
+Please follow these steps to contribute:
 
-## 📄 Lisensi
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your fork.
+5. Submit a pull request to the `main` branch of the original repository.
 
-Proyek ini berlisensi [MIT](https://github.com/cloud-dark/sugardd.js/blob/main/LICENSE).
+## 📄 License
+
+This project is licensed under the [MIT License](https://github.com/cloud-dark/sugardd.js/blob/main/LICENSE).
