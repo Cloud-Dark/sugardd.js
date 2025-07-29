@@ -18,9 +18,10 @@
     "anyany.js",
     "cli",
     "code-visualization",
-    "documentation-generator"
+    "documentation-generator",
+    "sugardd"
   ],
-  "author": "Your Name",
+  "author": "Cloud-Dark",
   "license": "MIT",
   "dependencies": {
     "commander": "^11.0.0",
